@@ -1,3 +1,37 @@
+> **Med AI Lab · Innopolis University**  
+> Code and data released alongside a peer-reviewed publication.  
+> Original repository by [Dmitry Lvov](https://github.com/LvovDmitro): <https://github.com/LvovDmitro/ehrshot-state-or-space>
+
+---
+
+Auditing model selection on longitudinal EHRs (EHRSHOT): models with near-identical aggregate scores can prioritise substantially different high-risk episodes.
+
+### Paper
+
+- **Similar Scores, Different High-Risk Episodes: Auditing Model Selection in Longitudinal EHRs**  
+  P. Korobeinikova, D. Lvov, I. Pershin  
+  *NeurIPS 2026, Can We Trust AI Evaluation? workshop* · [link](https://openreview.net/forum?id=RffArnWpec)
+
+### About the lab
+
+The **Med AI Lab** at Innopolis University works on medical AI in which the clinician is part
+of the system rather than its user: eye tracking of radiologists, gaze as a supervision signal
+for medical imaging, electronic health records, and the modelling of human attention in
+language models.
+
+[Website](https://ilya-pershin.com/lab/) · [Publications](https://ilya-pershin.com/publications/) · [All code](https://github.com/med-ailab) · i.pershin@innopolis.ru
+
+### License
+
+The original repository does not carry a licence file, so no reuse rights are granted
+by default. Before reusing this code, contact the author or the lab.
+
+---
+
+*Everything below is the original README from [LvovDmitro/ehrshot-state-or-space](https://github.com/LvovDmitro/ehrshot-state-or-space), left unchanged.*
+
+---
+
 # Similar Scores, Different High-Risk Episodes: Auditing Model Selection in Longitudinal EHRs
 
 **Polina Korobeinikova, Dmitry Lvov, Ilya Pershin**
